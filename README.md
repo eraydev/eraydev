@@ -1,6 +1,5 @@
 - 👋 I’m Eray
 - 👀 Take a look at my projects
-- 📫 twitter @eraycode
 
 <!---
 eraydev/eraydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
